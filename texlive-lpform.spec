@@ -1,6 +1,6 @@
 Name:		texlive-lpform
 Version:	36918
-Release:	1
+Release:	2
 Summary:	Typesetting linear programming formulations and sets of equations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lpform
