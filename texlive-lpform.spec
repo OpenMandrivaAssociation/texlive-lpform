@@ -3,7 +3,7 @@ Version:	36918
 Release:	2
 Summary:	Typesetting linear programming formulations and sets of equations
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lpform
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/lpform
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lpform.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lpform.doc.r%{version}.tar.xz
